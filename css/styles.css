@@ -22,9 +22,12 @@
   color: white;
   font-weight: 300;
 }
+.featured-row {
+  padding: 10px;
+}
 .thumbnail {
   background-color: #edf1f4;
-  padding: 10px;
+  padding: 20px;
 }
 .footer {
   background-color: #333333;
